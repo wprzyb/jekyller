@@ -40,6 +40,8 @@ style: |
 
 ![](pictures/1.jpg)
 
+##![](pictures/ontheair.png)
+
 ## Jeden oszołom i coś ciekawego
 
 - 1.5kW na 433MHz
