@@ -40,7 +40,9 @@ style: |
 
 ![](pictures/1.jpg)
 
-##![](pictures/ontheair.png)
+## Początki...
+
+![](pictures/ontheair.png)
 
 ## Jeden oszołom i coś ciekawego
 
@@ -53,7 +55,6 @@ style: |
 
 {:.note}
 To tak się da? Oczywiście.
-
 
 ## Plain Text on Your Slides
 
