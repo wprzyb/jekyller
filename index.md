@@ -57,5 +57,19 @@ style: |
 {:.note}
 To tak się da? Oczywiście.
 
-## Plain Text on Your Slides
+## Pierwszy kurs
 
+- Zero rozgłosu
+- …100% znajomych
+- …Improwizacja z tygodnia na tydzień
+- …Lokalizacja: Hackerspace.
+
+## A potem...
+
+![](pictures/firstexam.jpg)
+
+## Pierwszy egzamin
+
+- Da się załatwić "prywatny" egzamin
+- …Brak wsparcia - lokalizacja: Hackerspace
+- …Mimo to egzaminowani nie będący uczestnikami kursu
