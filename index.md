@@ -68,6 +68,7 @@ To tak się da? Oczywiście.
 
 ![](pictures/firstexam.jpg)
 
+
 ## Pierwszy egzamin
 
 - Da się załatwić "prywatny" egzamin
