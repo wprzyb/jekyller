@@ -9,7 +9,7 @@ style: |
         color:#FFF;
         text-align:center;
         font-size:70px;
-        text-shadow: 2px 2px #000000;
+        text-shadow: 5px 5px #000000;
         }
     #Cover p {
         margin:10px 0 0;
@@ -17,6 +17,7 @@ style: |
         color:#FFF;
         font-style:italic;
         font-size:20px;
+        text-shadow: 5px 5px #000000;
         }
         #Cover p a {
             color:#FFF;
