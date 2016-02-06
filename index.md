@@ -9,6 +9,7 @@ style: |
         color:#FFF;
         text-align:center;
         font-size:70px;
+        text-shadow: 2px 2px #000000;
         }
     #Cover p {
         margin:10px 0 0;
