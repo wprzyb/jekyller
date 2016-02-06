@@ -39,19 +39,18 @@ style: |
 *Ryjek SP9KGP i Hackerspace SP9HACK*
 
 ![](pictures/1.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
 
+## Jeden oszołom i coś ciekawego
 
-## Shower Key Features
-
-1. Built on HTML, CSS and vanilla JavaScript
-2. All modern browsers are supported
-3. Slide themes are separated from engine
-4. Fully keyboard accessible
-5. Printable to PDF
+- 1.5kW na 433MHz
+- Własna sieć bezprzewodowa
+- Balon (nie balun) stratosferyczny
+- Mój sygnał na drugim końcu świata
+- Apokalipsa zombie
+- Własne konstrukcje
 
 {:.note}
-Shower ['ʃəuə] noun. A person or thing that shows.
+To tak się da? Oczywiście.
 
 
 ## Plain Text on Your Slides
