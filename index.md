@@ -36,7 +36,7 @@ style: |
 
 *Ryjek SP9KGP i Hackerspace SP9HACK*
 
-![](pictures/cover.jpg)
+![](pictures/1.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
