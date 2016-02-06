@@ -43,6 +43,7 @@ style: |
 ## Początki...
 
 ![](pictures/ontheair.png)
+{:.h}
 
 ## Jeden oszołom i coś ciekawego
 
