@@ -43,11 +43,11 @@ style: |
 ## Jeden oszołom i coś ciekawego
 
 - 1.5kW na 433MHz
-- Własna sieć bezprzewodowa
-- Balon (nie balun) stratosferyczny
-- Mój sygnał na drugim końcu świata
-- Apokalipsa zombie
-- Własne konstrukcje
+- …Własna sieć bezprzewodowa
+- …Balon (nie balun) stratosferyczny
+- …Mój sygnał na drugim końcu świata
+- …Apokalipsa zombie
+- …Własne konstrukcje
 
 {:.note}
 To tak się da? Oczywiście.
